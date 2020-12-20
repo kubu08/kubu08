@@ -1,4 +1,4 @@
-Shortly
+Shortly:
 
 🎓 - Studied economics master at LMU / Germany 
 
