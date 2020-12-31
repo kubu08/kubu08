@@ -4,6 +4,6 @@ Shortly:
 
 📤 - Working with : Stata, SQL, Excel, Power BI, Qlick Sense, SAP 
 
-📥 - Currently devleoping Python skills
+📥 - Currently developing Python skills
 
 ✉️ - kubraakocakk@hotmail.com
