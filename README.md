@@ -2,7 +2,7 @@ Shortly:
 
 🎓 - Studied economics master at LMU / Germany 
 
-📤 - Working with : Stata, SQL, Excel, Power BI, Tableau
+📤 - Working with : SQL, Knime, Excel, Power BI, Tableau
 
 📥 - Currently improving Python skills
 
