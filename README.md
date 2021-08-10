@@ -2,8 +2,8 @@ Shortly:
 
 🎓 - Studied economics master at LMU / Germany 
 
-📤 - Working with : Stata, SQL, Excel, Power BI, SAP 
+📤 - Working with : Stata, SQL, Excel, Power BI, Tableau
 
-📥 - Currently improving Python skills and learning Qlick Sense
+📥 - Currently improving Python skills
 
 ✉️ - kubraakocakk@hotmail.com
